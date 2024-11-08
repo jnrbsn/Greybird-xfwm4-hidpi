@@ -2,7 +2,7 @@ theme_path = join_paths(get_option('datadir'), 'themes/Greybird')
 a11y_theme_path = join_paths(get_option('datadir'), 'themes/Greybird-accessibility')
 compact_theme_path = join_paths(get_option('datadir'), 'themes/Greybird-compact')
 bright_theme_path = join_paths(get_option('datadir'), 'themes/Greybird-bright')
-hidpi_theme_path = join_paths(get_option('datadir'), 'themes/Greybird-hidpi')
+hidpi_theme_path = join_paths(get_option('datadir'), 'themes/Greybird-hidpi/xfwm4')
 
 
 subdir('gtk-3.0')
